@@ -27,7 +27,7 @@ FLAMES is a **personalized fashion recommendation system** designed to help user
 ---
 
 ## 📝 **Workflow**
-
+<img src="Outfit Lab/Workflow/OutfitLab.png" alt="Workflow" width="100%">
 ### **Step 1: User Input and Wardrobe Access**
 - Users upload images of clothing, accessories, and body images.
 - Images are captured with clear views of attire, watches, jewelry, etc.
